@@ -1,4 +1,7 @@
-<h1 align="center">Hi , I am  Rofikul Islam Resan</h1><h3 align="center">MERN stack Developer</h3>
+<h1 align="center">Hi , I am  Rofikul Islam Resan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Web+Developer+on+MERN+Stack.;I+am+From+Bangladesh.&center=true&width=500&height=50">
+</p>
 
 <p align="center">
     I am <b>Rofikul Islam Resan</b>, I am a Dedicated MERN Stack developer with a passion for hard work and a genuine love for what I do. Proficient in JavaScript and experience in REACT with a understanding of backend concepts. Seeking a challenging role to contribute and grow with a company.
@@ -18,7 +21,8 @@
 - 🧞 I'm a Quick lerner , Headworker.
 - 🔭 I’m currently working on Fullstack Web Development in MERN stack Technology.
 - 💬 Ask me about react, JavaScript, and MERN stack Technology.
-- 👯 I’m looking to collaborate with Fullstack Web .
+- 👯 I’m looking to collaborate with Fullstack Web Application .
+- 📧 Reach me anytime: <b><a href="mailto:resan6231@gmail.com">resan6231@gmail.com</a></b>
 - 💡 My Dream is a full stack development with a cyber Security Expert.
 - ⚡ Fun fact: I love codding, and Bicycle Riding.
   <br>
@@ -27,15 +31,81 @@
 
 # My Skills
 
-## <p></p><br>
+<table>
+            <tr>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40px" />
+              <p align="center">React</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40px" />
+              <p align="center">node JS</p>
+            </td>
+             <td>
+              <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="40px" />
+              <p align="center">Express</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40px" />
+              <p align="center">Mongodb</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  height="40px" />
+              <p align="center">Tailwind</p>
+            </td>
+            <td>
+              <img src="https://rofikul-resan.web.app/redux-50.png" alt="" height="40px" />
+              <p align="center">Redux</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40px" />
+              <p align="center">HTML</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="40px" />
+              <p align="center">CSS</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40px" />
+              <p align="center">Github</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40px" />
+              <p align="center">Git</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="40px" />
+              <p align="center">Bootstrap</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" height="40px" />
+              <p align="center">Firebase</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40px"/>
+              <p align="center">Next Js</p>
+            </td>
+            <td>
+              <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40px" />
+              <p align="center">Figma</p>
+            </td>
+            <td>
+              <img src="https://rofikul-resan.web.app/visual-studio.svg" alt="" height="40px" />
+              <p align="center">VsCode</p>
+            </td>
+            </tr>
+  </table>
+<br>
 
 <h2> My Github Status </h2>
 <p align="center">
   <a href="https://github.com/rofikul-resan">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofikul-resan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a> <span> <span> <span> <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofikul-resan&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/rofikul-resan">
-    <img align="center" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=rofikul-resan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rofikul-resan&theme=radical" alt="Rofikul Resan's GitHub Contribution"/>
   </a>
 </p>
 <h4> Connect with me🤝: <h4>
