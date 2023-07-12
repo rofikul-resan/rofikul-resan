@@ -31,70 +31,148 @@
 
 # My Skills
 
-<table>
-            <tr>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="40px" />
-              <p align="center">React</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40px" />
-              <p align="center">node JS</p>
-            </td>
-             <td>
-              <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="40px" />
-              <p align="center">Express</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="40px" />
-              <p align="center">Mongodb</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  height="40px" />
-              <p align="center">Tailwind</p>
-            </td>
-            <td>
-              <img src="https://rofikul-resan.web.app/redux-50.png" alt="" height="40px" />
-              <p align="center">Redux</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40px" />
-              <p align="center">HTML</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="40px" />
-              <p align="center">CSS</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40px" />
-              <p align="center">Github</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40px" />
-              <p align="center">Git</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="40px" />
-              <p align="center">Bootstrap</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" height="40px" />
-              <p align="center">Firebase</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40px"/>
-              <p align="center">Next Js</p>
-            </td>
-            <td>
-              <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40px" />
-              <p align="center">Figma</p>
-            </td>
-            <td>
-              <img src="https://rofikul-resan.web.app/visual-studio.svg" alt="" height="40px" />
-              <p align="center">VsCode</p>
-            </td>
-            </tr>
-  </table>
+<div>
+    <table>
+      <td>
+        <a>
+          <img
+            src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+            height="40px"
+          />
+          <p align="center">React</p>
+        </a>
+      </td>
+      <td>
+        <a>
+          <img
+            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+            height="40px"
+          />
+          <p align="center">node JS</p>
+        </a>
+      </td>
+      <td>
+        <a>
+          <img
+            src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+            height="40px"
+          />
+          <p align="center">Express</p>
+        </a>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+            height="40px"
+          />
+          <p align="center">Mongodb</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+            height="40px"
+          />
+          <p align="center">Tailwind</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://rofikul-resan.web.app/redux-50.png"
+            alt=""
+            height="40px"
+          />
+          <p align="center">Redux</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
+            height="40px"
+          />
+          <p align="center">HTML</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"
+            height="40px"
+          />
+          <p align="center">CSS</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+            height="40px"
+          />
+          <p align="center">Github</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            height="40px"
+          />
+          <p align="center">Git</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
+            height="40px"
+          />
+          <p align="center">Bootstrap</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt=""
+            height="40px"
+          />
+          <p align="center">Firebase</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://rofikul-resan.web.app/nextjs.svg"
+            height="40px"
+          />
+          <p align="center">Next Js</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+            height="40px"
+          />
+          <p align="center">Figma</p>
+        </span>
+      </td>
+      <td>
+        <span>
+          <img
+            src="https://rofikul-resan.web.app/visual-studio.svg"
+            alt=""
+            height="40px"
+          />
+          <p align="center" >Vs Code</p>
+        </span>
+      </td>
+    </table>
+</div>
 <br>
 
 <h2> My Github Status </h2>
