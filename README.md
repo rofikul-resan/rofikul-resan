@@ -18,7 +18,7 @@
 </p>
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Quick lerner , Headworker.
+- 🧞 I'm a Quick lerner , Hard worker.
 - 🔭 I’m currently working on Fullstack Web Development in MERN stack Technology.
 - 💬 Ask me about react, JavaScript, and MERN stack Technology.
 - 👯 I’m looking to collaborate with Fullstack Web Application .
