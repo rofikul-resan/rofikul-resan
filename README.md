@@ -14,7 +14,6 @@
 <br>
 <br>
 <p  align="center">
-<img src="https://i.ibb.co/4gC2281/1-238-Medium.png">
 </p>
 <h3>Little facts about me 🧑</h3>
 
